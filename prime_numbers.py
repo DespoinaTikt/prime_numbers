@@ -8,4 +8,6 @@ for num in range(1, 250):
             print(num)
             break
 
+# python prime_numbers.py > results.txt to print the results in the txt file
+
 
